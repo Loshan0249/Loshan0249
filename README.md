@@ -17,7 +17,7 @@
 <!-- ── INTRODUCTION ───────────────────────────────────────── -->
 <p align="center">
   <em>
-    Cloud Computing undergraduate at <strong>SLTC Research University</strong>, Sri Lanka —
+    Cloud Computing undergraduate at <strong>Sri Lanka Technology Campus</strong>, Sri Lanka —
     building practical skills at the intersection of cloud infrastructure, security, automation, and modern web development.
     Interested in designing reliable, secure, and scalable systems using tools from the cloud and DevOps ecosystem.
   </em>
@@ -138,7 +138,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript. Deployed via 
 
 [![Repo](https://img.shields.io/badge/GitHub-CIT--24--01--0249-181717?style=flat-square&logo=github)](https://github.com/Loshan0249/CIT-24-01-0249)
 
-JavaScript-based lab repository containing coursework and practical exercises from the Cloud & IT programme at SLTC Research University.
+JavaScript-based lab repository containing coursework and practical exercises from the Cloud & IT programme at Sri Lanka Technology Campus.
 
 **Technologies:** `JavaScript` · `Cloud Computing`
 
@@ -233,8 +233,8 @@ A practice repository for learning and applying Git workflows, branching strateg
   </a>
   &nbsp;
   <!-- Replace the placeholder below with your professional email when ready -->
-  <a href="mailto:[your-professional-email@example.com]">
-    <img src="https://img.shields.io/badge/Email-[Add_Email]-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — add your address" />
+  <a href="mailto:[loshanmihisara@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-[loshanmihisara@gmail.com]-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — add your address" />
   </a>
 </p>
 
