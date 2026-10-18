@@ -117,7 +117,7 @@ Academic assignment exploring virtualization concepts and container technologies
 
 [![Repo](https://img.shields.io/badge/GitHub-Virtualization--and--Containers-181717?style=flat-square&logo=github)](https://github.com/Loshan0249/Virtualization-and-Containers)
 
-A practice repository for exploring virtualization and container-related concepts as part of the Cloud Computing curriculum at SLTC Research University.
+A practice repository for exploring virtualization and container-related concepts as part of the Cloud Computing curriculum at Sri Lanka Technology Campus.
 
 **Technologies:** `Docker` · `Linux` · `Cloud Computing`
 
@@ -254,5 +254,6 @@ A practice repository for learning and applying Git workflows, branching strateg
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SLTC_Research_University-Cloud_Computing-FF6B35?style=flat-square" alt="SLTC Research University · Cloud Computing" />
+  <img src="https://img.shields.io/badge/Sri_Lanka_Technology
+       Campus-Cloud_Computing-FF6B35?style=flat-square" alt="Sri Lanka_Technology_Campus · Cloud Computing" />
 </p>
