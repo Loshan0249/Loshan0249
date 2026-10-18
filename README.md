@@ -196,24 +196,35 @@ A practice repository for learning and applying Git workflows, branching strateg
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Loshan0249&theme=react-dark&bg_color=070b18&color=00D4FF&line=FF6B35&point=FF8C5A&area=true&hide_border=true"
-    alt="Loshan's Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loshan0249&theme=github_dark"
+    alt="Loshan's Contribution Summary"
     width="100%"
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Loshan0249&theme=github_dark"
+    alt="Repos per Language"
+    width="32%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loshan0249&theme=github_dark&utcOffset=5.5"
+    alt="Productive Time"
+    width="32%"
+  />
+</p>
+
 
 <!-- ── PROFILE VIEWS ───────────────────────────────────────── -->
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Loshan0249&color=FF6B35&style=flat-square&label=Profile+Views"
+    src="https://visitcount.itsvg.in/api?id=Loshan0249&label=Profile%20Views&color=6&icon=0&pretty=true"
     alt="Profile Views"
   />
 </p>
-
----
 
 <!-- ── CONNECT ─────────────────────────────────────────────── -->
 
@@ -233,8 +244,8 @@ A practice repository for learning and applying Git workflows, branching strateg
   </a>
   &nbsp;
   <!-- Replace the placeholder below with your professional email when ready -->
-  <a href="mailto:[loshanmihisara@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-[loshanmihisara@gmail.com]-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — add your address" />
+  <a href="mailto:[your-professional-email@example.com]">
+    <img src="https://img.shields.io/badge/Email-[Add_Email]-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — add your address" />
   </a>
 </p>
 
@@ -254,6 +265,5 @@ A practice repository for learning and applying Git workflows, branching strateg
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sri_Lanka_Technology
-       Campus-Cloud_Computing-FF6B35?style=flat-square" alt="Sri Lanka_Technology_Campus · Cloud Computing" />
+  <img src="https://img.shields.io/badge/Sri_Lanka_Technology_Campus-Cloud_Computing-FF6B35?style=flat-square" alt="Sri Lanka Technology Campus · Cloud Computing" />
 </p>
