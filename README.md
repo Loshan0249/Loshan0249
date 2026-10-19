@@ -1,6 +1,7 @@
 <!-- ============================================================
      LOSHAN MIHISARA — GitHub Profile README
      Repository: Loshan0249/Loshan0249
+     Assets: assets/banner.svg · assets/timeline.svg · assets/divider.svg
      ============================================================ -->
 
 <!-- ── BANNER ─────────────────────────────────────────────── -->
@@ -12,7 +13,21 @@
   />
 </p>
 
-<br/>
+<p align="center">
+  <img
+    src="./assets/timeline.svg"
+    alt="Delivery pipeline: commit, build, test, review, merge, deploy, live"
+    width="100%"
+  />
+</p>
+
+<!-- ── TYPING ANIMATION ───────────────────────────────────── -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&height=40&lines=Building+cloud-powered+solutions;Exploring+cybersecurity+%26+DevOps;Automating+everything+I+can;Let's+build+something+great"
+    alt="Building cloud-powered solutions · Exploring cybersecurity & DevOps"
+  />
+</p>
 
 <!-- ── INTRODUCTION ───────────────────────────────────────── -->
 <p align="center">
@@ -23,9 +38,7 @@
   </em>
 </p>
 
-<br/>
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── TECHNOLOGY STACK ───────────────────────────────────── -->
 
@@ -45,8 +58,6 @@
 | **Frontend** | React |
 | **Backend** | FastAPI · REST APIs |
 
----
-
 ### Cloud Platforms
 
 <p align="left">
@@ -57,8 +68,6 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
----
 
 ### DevOps & Tools
 
@@ -74,8 +83,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=flat-square&logo=circleci&logoColor=white)
 
----
-
 ### Security
 
 ![CodeQL](https://img.shields.io/badge/CodeQL-00D4FF?style=flat-square&logo=github&logoColor=white)
@@ -83,15 +90,11 @@
 ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-FF6B35?style=flat-square&logo=hackerone&logoColor=white)
 ![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-1a1a2e?style=flat-square&logo=paloaltonetworks&logoColor=white)
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── FEATURED PROJECTS ───────────────────────────────────── -->
 
 ## 📁 Featured Projects
-
-> Projects from my public repositories. Descriptions reflect what is visible in the repository — I have not invented details.
-
----
 
 ### 🔐 Introduction to CodeQL
 
@@ -152,15 +155,7 @@ A practice repository for learning and applying Git workflows, branching strateg
 
 **Technologies:** `Git` · `Version Control`
 
----
-
-> **📌 Placeholder Projects** — As I build more projects in cloud infrastructure, DevOps, and security, they will be added here. Areas I am actively working towards:
->
-> - `[ Cloud Automation ]` — Azure/AWS resource automation scripts _(coming soon)_
-> - `[ Security Monitoring Dashboard ]` — SIEM & log analysis project _(coming soon)_
-> - `[ CI/CD Pipeline Demo ]` — End-to-end pipeline with GitHub Actions & Docker _(coming soon)_
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── GITHUB STATISTICS ────────────────────────────────────── -->
 
@@ -188,7 +183,7 @@ A practice repository for learning and applying Git workflows, branching strateg
   />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── CONTRIBUTION ACTIVITY ───────────────────────────────── -->
 
@@ -216,7 +211,6 @@ A practice repository for learning and applying Git workflows, branching strateg
   />
 </p>
 
-
 <!-- ── PROFILE VIEWS ───────────────────────────────────────── -->
 
 <p align="center">
@@ -225,6 +219,8 @@ A practice repository for learning and applying Git workflows, branching strateg
     alt="Profile Views"
   />
 </p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── CONNECT ─────────────────────────────────────────────── -->
 
@@ -243,13 +239,12 @@ A practice repository for learning and applying Git workflows, branching strateg
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-00D4FF?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <!-- Replace the placeholder below with your professional email when ready -->
-  <a href="mailto:[your-professional-email@example.com]">
-    <img src="https://img.shields.io/badge/Email-[Add_Email]-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — add your address" />
+  <a href="mailto:loshanmihisara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ── CLOSING ─────────────────────────────────────────────── -->
 
