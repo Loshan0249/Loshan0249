@@ -13,14 +13,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/timeline.svg"
-    alt="Delivery pipeline: commit, build, test, review, merge, deploy, live"
-    width="100%"
-  />
-</p>
-
 <!-- ── TYPING ANIMATION ───────────────────────────────────── -->
 <p align="center">
   <img
