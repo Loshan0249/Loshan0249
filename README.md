@@ -215,7 +215,7 @@ A practice repository for learning and applying Git workflows, branching strateg
 
 <p align="center">
   <img
-    src="https://visitcount.itsvg.in/api?id=Loshan0249&label=Profile%20Views&color=6&icon=0&pretty=true"
+    src="https://komarev.com/ghpvc/?username=Loshan0249&label=Profile+Views&color=2f81f7&style=flat-square"
     alt="Profile Views"
   />
 </p>
